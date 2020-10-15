@@ -1,0 +1,1 @@
+web: gunicorn nuel_search_list.wsgi
